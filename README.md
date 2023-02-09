@@ -17,9 +17,9 @@ The integration range and number of points appear to be decent at a $<3$% level 
 
 Default ouput on my machine is:
 
-``Is the window close to 1? true
+``Is the window close to 1? true``
 
-Power spectrum variance in a cubic box of side length 625.0 Mpc/h is 6.756502209257932e-5.``
+``Power spectrum variance in a cubic box of side length 625.0 Mpc/h is 6.756502209257932e-5.``
 
 This is in close agreement with directly computing the variance of linear field on a grid but has the benefit of being faster and not requiring seed averaging.
 
