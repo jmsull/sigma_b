@@ -9,7 +9,7 @@ $W^{2}(\mathbf{k}) = j_{0}^{2}(k_{x}L/2)j_{0}^{2}(k_{y}L/2)j_{0}^{2}(k_{z}L/2)$
 
 which is appropriately normalized to $1/V = L^{-3}$.
 
-[Li, Takada, & Hu 2014](https://arxiv.org/abs/1401.0385)
+[Li, Hu, & Takada 2014](https://arxiv.org/abs/1401.0385)
 
 # Notes: 
 
